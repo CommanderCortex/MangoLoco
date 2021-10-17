@@ -1,0 +1,8 @@
+name: MangoLoco
+version: '${project.version}'
+main: cortex.mangoloco.MangoLoco
+api-version: 1.17
+load: STARTUP
+authors: [ CommanderCortex ]
+description: Global Tools for Essential Spigot Plugin Development
+website: www.github.com/CommanderCortex
